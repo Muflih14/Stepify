@@ -1,35 +1,31 @@
-# react-app-typescript-fv1
+# Project Management App (TypeScript & Solidity)
 
-It is a single page application written using Create React App, Typescript, React Hooks, with full create, read, update, delete, search and filter functionality.
+It is a single page application written using React, Typescript, and Solidity with full create, read, update, delete, search and filter functionality.
 
 ## Demo
 
-Project hosted on Netlify: https://react-app-typescript-fv1.netlify.app/
+Project to be hosted
 
 ## Features
 
-- Add todo
-- Remove todo
-- Update todo
-- ToggleLike todo
-- ToggleImportant todo
-- Search Todo
-- Filter Todo
+- Add Task
+- Remove Task
+- Update Task
+- Toggle completed task
+- ToggleImportant task
+- Search for Task
+- Filter Task
 - Tablet and mobile friendly
 
 ## Build with
 
 - React Js, Css, Typescript
-- React Hooks: useState, useContext
-- fontawesome, bootstrap
+- Solidity
 
 ## Installation
 
 Install **`git`**, **`nodejs`**, **`npm`** in your local computer
 
-Clone this repository to your local computer:
-
-**`$ git clone https://github.com/albaitas/react-app-typescript-fv1.git`**
 
 Install dependencies:
 
